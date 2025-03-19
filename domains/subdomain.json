@@ -1,9 +1,11 @@
 {
+    "description": "do-main",
+    "repo": "https://github.com/rfginanjar/rfginanjar.github.io",
     "owner": {
         "username": "rfginanjar",
         "email": "raka.feisal@gmail.com"
     },
     "record": {
-        "CNAME": "rakaf.is-a.dev"
+        "CNAME": "rfginanjar.github.io"
     }
 }
